@@ -69,7 +69,7 @@ What's your favourite food? What do you eat it with?<br>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/na_kynec_4_klasu_uchny_povunny_vmyty.html">На кінець 4-го класу учні повинні вміти</a></li>
+<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/na_kynec_4_klasu_uchny_povunny_vmyty.html">На кінець 4-го класу</a></li>
 <ul type="circle">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/govorinnya.html">Говоріння</a></li>

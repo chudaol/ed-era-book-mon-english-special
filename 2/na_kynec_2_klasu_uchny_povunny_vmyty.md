@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# На кінець 2-го класу учні повинні вміти
+# На кінець 2-го класу
 
 <p><b>Зміст розділу:</b></p>
 <ul type="circle">

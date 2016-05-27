@@ -38,7 +38,7 @@
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/na_kynec_1_klasu_uchny_povunny_vmyty.html">На кінець 1-го класу учні повинні вміти</a></li>
+<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/na_kynec_1_klasu_uchny_povunny_vmyty.html">На кінець 1-го класу</a></li>
 <ul type="circle">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/govorinnya.html">Говоріння</a></li>
@@ -51,7 +51,7 @@
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/na_kynec_2_klasu_uchny_povunny_vmyty.html">На кінець 2-го класу учні повинні вміти</a></li>
+<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/na_kynec_2_klasu_uchny_povunny_vmyty.html">На кінець 2-го класу</a></li>
 <ul type="circle">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/govorinnya.html">Говоріння</a></li>
@@ -64,7 +64,7 @@
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/na_kynec_3_klasu_uchny_povunny_vmyty.html">На кінець 3-го класу учні повинні вміти</a></li>
+<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/na_kynec_3_klasu_uchny_povunny_vmyty.html">На кінець 3-го класу</a></li>
 <ul type="circle">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/govorinnya.html">Говоріння</a></li>
@@ -77,7 +77,7 @@
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/na_kynec_4_klasu_uchny_povunny_vmyty.html">На кінець 4-го класу учні повинні вміти</a></li>
+<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/na_kynec_4_klasu_uchny_povunny_vmyty.html">На кінець 4-го класу</a></li>
 <ul type="circle">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/govorinnya.html">Говоріння</a></li>

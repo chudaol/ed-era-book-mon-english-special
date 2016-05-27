@@ -79,7 +79,7 @@ It is ten past one. It is quarter to six.<br>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/na_kynec_3_klasu_uchny_povunny_vmyty.html">На кінець 3-го класу учні повинні вміти</a></li>
+<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/na_kynec_3_klasu_uchny_povunny_vmyty.html">На кінець 3-го класу</a></li>
 <ul type="circle">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/govorinnya.html">Говоріння</a></li>

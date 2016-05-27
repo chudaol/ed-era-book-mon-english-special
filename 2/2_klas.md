@@ -73,7 +73,7 @@ How many ...?<br>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/na_kynec_2_klasu_uchny_povunny_vmyty.html">На кінець 2-го класу учні повинні вміти</a></li>
+<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/na_kynec_2_klasu_uchny_povunny_vmyty.html">На кінець 2-го класу</a></li>
 <ul type="circle">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/govorinnya.html">Говоріння</a></li>

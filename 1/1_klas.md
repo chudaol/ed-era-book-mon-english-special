@@ -74,7 +74,7 @@ It’s ... .<br>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li> 
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/na_kynec_1_klasu_uchny_povunny_vmyty.html">На кінець 1-го класу учні повинні вміти</a></li>
+<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/na_kynec_1_klasu_uchny_povunny_vmyty.html">На кінець 1-го класу</a></li>
 <ul type="circle">
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/govorinnya.html">Говоріння</a></li>
