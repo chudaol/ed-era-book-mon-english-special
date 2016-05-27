@@ -1,0 +1,24 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
+# Письмо
+
+<table>
+<thead>
+  <tr>
+    <th>Письмо</th>
+  </tr>
+</thead>
+<tbody>
+<td style="vertical-align:top !important;">
+<ul>
+<li>Писати слова, словосполучення, речення;</li>
+<li>описувати свій клас, кімнату, ігри і забави, погоду, сім’ю, свято, людей, тварин.</li>
+</ul>
+Обсяг письмового повідомлення — 7-8 речень.<br>
+</td>
+</tbody>
+</table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>

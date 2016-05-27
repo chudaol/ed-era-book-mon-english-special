@@ -1,0 +1,25 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
+# Читання
+
+<table>
+<thead>
+  <tr>
+    <th>Читання</th>
+  </tr>
+</thead>
+<tbody>
+<td style="vertical-align:top !important;">
+<ul>
+<li>Знати алфавіт та основні звукобуквені зв'язки; </li>
+<li>читати вголос та про себе з повним розумінням короткі, прості тексти, що містять мовний матеріал, засвоєний в усному мовленні; </li>
+<li>читати і розуміти нескладні короткі тексти, де значення незнайомих слів розкривається на основі здогадки.</li>
+</ul>
+Обсяг — 200-250 друкованих знаків.<br>
+</td>
+</tbody>
+</table>
+
+<div class="js-hypercomments-container">
+    <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>
