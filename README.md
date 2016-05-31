@@ -32,59 +32,43 @@
 
 Зміст програми {#programa}
 --
-1. <a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/poyasnuvalna_zapyska.html">Пояснювальна записка</a>
-2. <a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/1_klas.html">1 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/na_kynec_1_klasu_uchny_povunny_vmyty.html">На кінець 1-го класу</a></li>
-<ul type="circle">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/audiyuvannya.html">Аудіювання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/govorinnya.html">Говоріння</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/chitannya.html">Читання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/1/pysmo.html">Письмо</a></li>
-</ul>
-</ul>
-3. <a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/2_klas.html">2 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/na_kynec_2_klasu_uchny_povunny_vmyty.html">На кінець 2-го класу</a></li>
-<ul type="circle">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/audiyuvannya.html">Аудіювання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/govorinnya.html">Говоріння</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/chitannya.html">Читання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/2/pysmo.html">Письмо</a></li>
-</ul>
-</ul>
-4. <a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/3_klas.html">3 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/na_kynec_3_klasu_uchny_povunny_vmyty.html">На кінець 3-го класу</a></li>
-<ul type="circle">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/audiyuvannya.html">Аудіювання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/govorinnya.html">Говоріння</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/chitannya.html">Читання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/pysmo.html">Письмо</a></li>
-</ul>
-</ul>
-4. <a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/4_klas.html">4 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/na_kynec_4_klasu_uchny_povunny_vmyty.html">На кінець 4-го класу</a></li>
-<ul type="circle">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/audiyuvannya.html">Аудіювання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/govorinnya.html">Говоріння</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/chitannya.html">Читання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/4/pysmo.html">Письмо</a></li>
-</ul>
-</ul>
+* [Пояснювальна записка](poyasnuvalna_zapyska.md)
+* [1 клас](1/1_klas.md)
+   * [Лінгвістична компетенція](1/lyngvystykhna_kompetenzia.md)
+   * [Соціокультурна компетенція](1/soziokulturna_kompetenzia.md)
+   * [Загальнонавчальна компетенція](1/zagalnonavchalna_kompetenzya.md)
+   * [На кінець 1-го класу](1/na_kynec_1_klasu_uchny_povunny_vmyty.md)
+       * [Аудіювання](1/audiyuvannya.md)
+       * [Говоріння](1/govorinnya.md)
+       * [Читання](1/chitannya.md)
+       * [Письмо](1/pysmo.md)
+* [2 клас](2/2_klas.md)
+   * [Лінгвістична компетенція](2/lyngvystykhna_kompetenzia.md)
+   * [Соціокультурна компетенція](2/soziokulturna_kompetenzia.md)
+   * [Загальнонавчальна компетенція](2/zagalnonavchalna_kompetenzya.md)
+   * [На кінець 2-го класу](2/na_kynec_2_klasu_uchny_povunny_vmyty.md)
+       * [Аудіювання](2/audiyuvannya.md)
+       * [Говоріння](2/govorinnya.md)
+       * [Читання](2/chitannya.md)
+       * [Письмо](2/pysmo.md)
+* [3 клас](3/3_klas.md)
+   * [Лінгвістична компетенція](3/lyngvystykhna_kompetenzia.md)
+   * [Соціокультурна компетенція](3/soziokulturna_kompetenzia.md)
+   * [Загальнонавчальна компетенція](3/zagalnonavchalna_kompetenzya.md)
+   * [На кінець 3-го класу](3/na_kynec_3_klasu_uchny_povunny_vmyty.md)
+       * [Аудіювання](3/audiyuvannya.md)
+       * [Говоріння](3/govorinnya.md)
+       * [Читання](3/chitannya.md)
+       * [Письмо](3/pysmo.md)
+* [4 клас](4/4_klas.md)
+   * [Лінгвістична компетенція](4/lyngvystykhna_kompetenzia.md)
+   * [Соціокультурна компетенція](4/soziokulturna_kompetenzia.md)
+   * [Загальнонавчальна компетенція](4/zagalnonavchalna_kompetenzya.md)
+   * [На кінець 4-го класу](4/na_kynec_4_klasu_uchny_povunny_vmyty.md)
+       * [Аудіювання](4/audiyuvannya.md)
+       * [Говоріння](4/govorinnya.md)
+       * [Читання](4/chitannya.md)
+       * [Письмо](4/pysmo.md)
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

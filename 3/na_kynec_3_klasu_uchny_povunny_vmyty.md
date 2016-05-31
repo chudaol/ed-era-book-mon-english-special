@@ -3,12 +3,10 @@
 # На кінець 3-го класу
 
 <p><b>Зміст розділу:</b></p>
-<ul type="circle">
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/audiyuvannya.html">Аудіювання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/govorinnya.html">Говоріння</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/chitannya.html">Читання</a></li>
-<li><a href="https://edera.gitbooks.io/ed-era-book-mon-english-special/content/3/pysmo.html">Письмо</a></li>
-</ul>
+   * [Аудіювання](audiyuvannya.md)
+   * [Говоріння](govorinnya.md)
+   * [Читання](chitannya.md)
+   * [Письмо](pysmo.md)
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
