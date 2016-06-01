@@ -54,6 +54,7 @@ $(document).ready(function () {
         $("img#map3").hide();
       }
     });
+    $(".articles .chapter>span").css("color", "lightgray");
     if ($("#hypercomments_widget").length > 0) {
       hypercommnet();
     }
