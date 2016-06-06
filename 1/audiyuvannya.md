@@ -3,12 +3,9 @@
 # Аудіювання
 
 <table>
-<thead>
   <tr>
-    <th>Аудіювання</th>
+    <td align="center"><b>Аудіювання</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 На кінець 1-го класу учні повинні вміти:
 <ul>
@@ -18,7 +15,6 @@
 <li>розуміти короткі прості вказівки, сформульовані повільно.</li>
 </ul>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

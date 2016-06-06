@@ -3,12 +3,9 @@
 # Соціокультурна компетенція
 
 <table>
-<thead>
   <tr>
-    <th>Соціокультурна компетенція</th>
+    <td align="center"><b>Соціокультурна компетенція</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 <ul>
 <li>Обирати і вживати відповідні до ситуації спілкування привітання;</li>
@@ -20,7 +17,6 @@
 </ul>
 Правила ввічливості.
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

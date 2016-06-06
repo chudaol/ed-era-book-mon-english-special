@@ -3,12 +3,9 @@
 # Письмо
 
 <table>
-<thead>
   <tr>
-    <th>Письмо</th>
+    <td align="center"><b>Письмо</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 На кінець 2-го класу учні повинні вміти:
 <ul>
@@ -17,7 +14,6 @@
 </ul>
 Обсяг письмового повідомлення — 5-6 речень.<br>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

@@ -3,15 +3,12 @@
 # 2 клас
 
 <table>
-<thead>
   <tr>
-    <th width="10%" align="center"><p>Сфера спілкування</p></td>
-    <th width="10%" align="center"><p>Тематика ситуативного спілкування</p></td>
-    <th width="40%" align="center"><p>Мовленнєві функції</p></td>
-    <th width="60%" align="center"><p>Засоби вираження</p></td>
+    <td width="10%" align="center"><b>Сфера спілкування</b></td>
+    <td width="10%" align="center"><b>Тематика ситуативного спілкування</b></td>
+    <td width="40%" align="center"><b>Мовленнєві функції</b></td>
+    <td width="60%" align="center"><b>Засоби вираження</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td width="10%" style="vertical-align:top !important;">
 <b>Особистісна</b></td>
@@ -64,7 +61,6 @@ How many ...?<br>
     <td width="10%" style="vertical-align:top !important;">
 Шкільне життя (школа, моя класна кімната, мій портфель.).</td>
 </tr>
-</tbody>
 </table>
 
 <hr>

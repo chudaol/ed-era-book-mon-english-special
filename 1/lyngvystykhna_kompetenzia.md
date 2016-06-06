@@ -3,16 +3,13 @@
 # Лінгвістична компетенція
 
 <table>
-<thead>
   <tr>
-    <th colspan="3">Лінгвістична компетенція</th>
+    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
   </tr>
-</thead>
-<tbody>
             <tr>
-                <th>лексична</th>
-                <th>граматична</th>
-                <th>фонетична</th>
+                <td align="center"><b>лексична</b></td>
+                <td align="center"><b>граматична</b></td>
+                <td align="center"><b>фонетична</b></td>
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">Члени сім’ї, вік. <br>
@@ -43,7 +40,6 @@
 <b>Вигуки:</b> <i>Oh! Ah! Wow! OK!</i><br></td>
                 <td width="25%" style="vertical-align:top !important;">Вимова вивчених слів та висловів, достатня для розуміння.</td>
             </tr>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

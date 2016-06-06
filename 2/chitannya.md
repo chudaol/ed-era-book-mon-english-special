@@ -3,12 +3,9 @@
 # Читання
 
 <table>
-<thead>
   <tr>
-    <th>Читання</th>
+    <td align="center"><b>Читання</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 На кінець 2-го класу учні повинні вміти:
 <ul>
@@ -18,7 +15,6 @@
 </ul>
 Обсяг — 200-250 друкованих знаків.<br>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

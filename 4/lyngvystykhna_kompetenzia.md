@@ -3,16 +3,13 @@
 # Лінгвістична компетенція
 
 <table>
-<thead>
   <tr>
-    <th colspan="3">Лінгвістична компетенція</th>
+    <td align="center" colspan="3"><b>Лінгвістична компетенція</b></td>
   </tr>
-</thead>
-<tbody>
             <tr>
-                <th>лексична</th>
-                <th>граматична</th>
-                <th>фонетична</th>
+                <td align="center"><b>лексична</b></td>
+                <td align="center"><b>граматична</b></td>
+                <td align="center"><b>фонетична</b></td>
             </tr>
             <tr>
                 <td width="25%" style="vertical-align:top !important;">
@@ -41,7 +38,6 @@ What? Where? When? How? How much? How many?<br>
                 Наголос у словах і реченнях. <br> 
                 Особливості інтонації.<br> </td>
             </tr>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

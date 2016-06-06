@@ -3,14 +3,11 @@
 # Письмо
 
 <table>
-<thead>
   <tr>
-    <th>Письмо</th>
+    <td align="center"><b>Письмо</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
-На кінець 1-го класу учні повинні вміти:
+На кінець 4-го класу учні повинні вміти:
 <ul>
 <li>писати слова, словосполучення, речення;</li>
 <li>оформити лист, листівку-вітання;</li>
@@ -18,7 +15,6 @@
 </ul>
 Обсяг письмового повідомлення — 8-9 речень.<br>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

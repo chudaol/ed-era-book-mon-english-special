@@ -3,12 +3,9 @@
 # Аудіювання
 
 <table>
-<thead>
   <tr>
-    <th>Аудіювання</th>
+    <td align="center"><b>Аудіювання</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 На кінець 3-го класу учні повинні вміти:
 <ul>
@@ -16,7 +13,6 @@
 <li>розуміти основний зміст прослуханих текстів різного характеру, побудованих на засвоєному мовному матеріалі.</li>
 </ul>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

@@ -3,12 +3,9 @@
 # Загальнонавчальна компетенція
 
 <table>
-<thead>
   <tr>
-    <th>Загальнонавчальна компетенція</th>
+    <td align="center"><b>Загальнонавчальна компетенція</b></td>
   </tr>
-</thead>
-<tbody>
 <td style="vertical-align:top !important;">
 <ul>
 <li>Стежити за презентованою інформацією;</li>
@@ -17,7 +14,6 @@
 <li>співпрацювати у парі/групі.</li>
 </ul>
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

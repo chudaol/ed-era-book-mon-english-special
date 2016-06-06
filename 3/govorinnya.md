@@ -3,15 +3,11 @@
 # Говоріння
 
 <table>
-<thead>
-  <tr>
-    <th colspan="2">Говоріння</th>
+    <td align="center" colspan="2"><b>Говоріння</b></td>
   </tr>
-</thead>
-<tbody>
             <tr>
-                <th>Монологічне мовлення</th>
-                <th>Діалогічне мовлення</th>
+                <td align="center"><b>Монологічне мовлення</b></td>
+                <td align="center"><b>Діалогічне мовлення</b></td>
             </tr>
             <tr>
 <td style="vertical-align:top !important;">
@@ -40,7 +36,6 @@
 <td style="vertical-align:top !important;">
 Висловлення кожного — 6-7 реплік, правильно оформлених у мовному відношенні.
 </td>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">
