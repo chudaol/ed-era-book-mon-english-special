@@ -31,9 +31,7 @@ $(document).ready(function () {
     $("a.toggle-search").remove();
 
     $lastLink = $(".custom-link:last");
-    href = $lastLink.prop("href");
-    href = "https://ed-era.com/books/" + _.last(href.split("-"));
-    $lastLink.prop("href", href);
+    $lastLink.remove();
     $("img#map1").hide();
     $("img#map2").hide();
     $("img#map3").hide();
