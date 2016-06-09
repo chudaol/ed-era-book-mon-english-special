@@ -1,6 +1,7 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# На кінець 3-го класу
+# Мовленнєва компетенція
+## На кінець 3-го класу
 
 <p><b>Зміст розділу:</b></p>
    * [Аудіювання](audiyuvannya.md)

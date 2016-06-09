@@ -16,7 +16,7 @@
 <li><a href="http://englishmonspecial.ed-era.com/1/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/1/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/1/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="http://englishmonspecial.ed-era.com/1/na_kynec_1_klasu_uchny_povunny_vmyty.html">На кінець 1-го класу</a></li>
+<li><a href="http://englishmonspecial.ed-era.com/1/na_kynec_1_klasu_uchny_povunny_vmyty.html">Мовленнєва компетенція</a></li>
 <ul type="square">
 <li><a href="http://englishmonspecial.ed-era.com/1/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/1/govorinnya.html">Говоріння</a></li>
@@ -31,7 +31,7 @@
 <li><a href="http://englishmonspecial.ed-era.com/2/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/2/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/2/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="http://englishmonspecial.ed-era.com/2/na_kynec_2_klasu_uchny_povunny_vmyty.html">На кінець 2-го класу</a></li>
+<li><a href="http://englishmonspecial.ed-era.com/2/na_kynec_2_klasu_uchny_povunny_vmyty.html">Мовленнєва компетенція</a></li>
 <ul type="square">
 <li><a href="http://englishmonspecial.ed-era.com/2/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/2/govorinnya.html">Говоріння</a></li>
@@ -46,7 +46,7 @@
 <li><a href="http://englishmonspecial.ed-era.com/3/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/3/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/3/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="http://englishmonspecial.ed-era.com/3/na_kynec_3_klasu_uchny_povunny_vmyty.html">На кінець 3-го класу</a></li>
+<li><a href="http://englishmonspecial.ed-era.com/3/na_kynec_3_klasu_uchny_povunny_vmyty.html">Мовленнєва компетенція</a></li>
 <ul type="square">
 <li><a href="http://englishmonspecial.ed-era.com/3/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/3/govorinnya.html">Говоріння</a></li>
@@ -61,7 +61,7 @@
 <li><a href="http://englishmonspecial.ed-era.com/4/lyngvystykhna_kompetenzia.html">Лінгвістична компетенція</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/4/soziokulturna_kompetenzia.html">Соціокультурна компетенція</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/4/zagalnonavchalna_kompetenzya.html">Загальнонавчальна компетенція</a></li>
-<li><a href="http://englishmonspecial.ed-era.com/4/na_kynec_4_klasu_uchny_povunny_vmyty.html">На кінець 4-го класу</a></li>
+<li><a href="http://englishmonspecial.ed-era.com/4/na_kynec_4_klasu_uchny_povunny_vmyty.html">Мовленнєва компетенція</a></li>
 <ul type="square">
 <li><a href="http://englishmonspecial.ed-era.com/4/audiyuvannya.html">Аудіювання</a></li>
 <li><a href="http://englishmonspecial.ed-era.com/4/govorinnya.html">Говоріння</a></li>
